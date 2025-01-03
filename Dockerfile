@@ -1,4 +1,4 @@
-FROM gcr.io/cloud-tagging-10302018/gtm-cloud-image:2.3.0 as builder
+FROM gcr.io/cloud-tagging-10302018/gtm-cloud-image:2.4.0 as builder
 
 FROM gcr.io/distroless/nodejs:18
 
